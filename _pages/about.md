@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor @ Bellini College of AI, Cybersecurity and Computing | USF)
+subtitle: Assistant Professor @ Bellini College of AI, Cybersecurity and Computing | USF
 
 profile:
   align: right
@@ -16,8 +16,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm an Assistant Professor at Bellini College of AI, Cybersecurity, and Computing. 
-I completed my doctoral degree from Rutgers University in New Brunswick, NJ, and a master's degree from Stevens Institute of Technology in Hoboken, NJ where I advised by Prof. [Hang Liu](https://asherliu.github.io/). I received a Bachelor of Engineering in Computer Engineering from Tribhuvan University, Kathmandu, Nepal. During my PhD, I interned at Google, Lawerence Berkeley National Lab and Brookhaven National Lab. 
+I'm a Tenure-Track Assistant Professor at Bellini College of AI, Cybersecurity, and Computing. 
+I completed my doctoral degree from Rutgers University in New Brunswick, NJ, and a master's degree from Stevens Institute of Technology in Hoboken, NJ, where I was advised by Prof. [Hang Liu](https://asherliu.github.io/). I received a Bachelor of Engineering in Computer Engineering from Tribhuvan University, Kathmandu, Nepal. During my PhD, I interned at Google, Lawrence Berkeley National Lab, and Brookhaven National Lab. 
 
 
 My research interests lie at the intersection of systems and ML/HPC applications, focusing on full-circle innovation--using ML/HPC to design better systems (more current focus) and building optimized systems for ML/HPC applications. Notably, I have worked on developing accurate and reusable ML-based microarchitecture simulators while also accelerating and scaling these simulation models with hardware-software co-design, demonstrating the synergy between system optimization and ML/HPC.
@@ -27,10 +27,6 @@ My long-term focus is on automating the design and optimization of computing sta
 <hr align="left" style="width:50%">
 
 I enjoy hiking and playing soccer in my free time.
-
-<hr align="left" style="width:50%">
-
-[ExchangeMeet:](/blog) Diverse social between two labs from any field, something I started in our lab ([learnings/blogs](/blog)).
 
 <hr align="left" style="width:50%">
 
